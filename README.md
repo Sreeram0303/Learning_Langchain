@@ -40,3 +40,18 @@ This repo is a complete walkthrough of the LangChain ecosystem:
 
 Each folder includes:
 - Jupyter Notebooks or `.py` files with working examples
+
+
+## 🙌 Acknowledgements
+
+- Thanks to the LangChain core team for the rich documentation and open-source contributions.
+- Inspired by examples from LangChain docs, community tutorials, and real-world use cases.
+
+---
+
+## ⭐ Final Words
+
+> This repo is the result of consistent learning, building, and experimenting with LangChain.  
+> If you found it helpful, consider giving it a ⭐ and sharing with fellow AI builders.
+
+Happy Building! 🧠💡
